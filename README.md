@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elyes</h1>
 <h3 align="center">A passionate SysAdmin and DevOps engineer</h3>
 
-- 📫 How to reach me **medelyesjabri@outlook.fr**
+- 📫 How to reach me ****
+<p align="left">
+a DevOps/GitOps engineer based in Tunisia
 
+I am a highly skilled and "certified Kubernetes engineer" with a background as a sysadmin specializing in Linux and automation.
+I have extensive experience in designing, deploying, and managing scalable containerized applications.
+My expertise includes cloud technologies, infrastructure automation, and DevOps practices,
+and I am committed to delivering high-quality solutions and leading projects to successful completion
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elyesjabri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elyesjabri/" height="30" width="40" /></a>
