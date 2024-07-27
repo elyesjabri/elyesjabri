@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elyes</h1>
 <h3 align="center">A passionate SysAdmin and DevOps engineer</h3>
 
-- 📫 How to reach me ****
 <p align="left">
 a DevOps/GitOps engineer based in Tunisia
 
