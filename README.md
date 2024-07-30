@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SysAdmin and DevOps engineer</h3>
 
 <p align="left">
-a DevOps/GitOps engineer based in Tunisia
+a Kubestronaut based in Tunisia
 
 I am a skilled and "certified Kubernetes engineer" with a background as a sysadmin specializing in Linux and automation.
 I have extensive experience in designing, deploying, and managing scalable containerized applications.
